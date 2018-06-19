@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">LifeStatsApp</string>
+    <string name="title_activity_money_chart_chooser">moneyChartChooser</string>
+    <string name="title_activity_quantitative_data_entry">QuantitativeDataEntry</string>
+    <string name="happinessRanking">Happiness Ranking</string>
+    <string name="productivityRanking">Productivity Ranking</string>
+    <string name="stressRanking">Stress Ranking</string>
+    <string name="submit">Submit</string>
+    <string name="journalHelpText">Enter words to describe your day above!</string>
+    <string name="journal">Journal</string>
+    <string name="moneySpent">Money Spent</string>
+    <string name="defaultSpentToday">So far you have not spent any money today!</string>
+    <string name="enterCashSpent">Enter How Much You Have Spent (ex: 1.50)</string>
+    <string name="about">Welcome to Life Stats! \n This app will help you improve your life one goal at a time.</string>
+    <string name="facebook_app_id">162707317775518</string>
+    <string name="fb_login_protocol_scheme">fb162707317775518</string>
+    <string name="stressRecommendations">
+        1. Meditate \n2. Exercise \n3. Stretch \n4. Take a nap \n5. Talk to a friend or family member
+        \n6. Eat your favorite food/dessert \n7. Get a hug \n8. Take a break \n9. Listen to music
+        \n10. Put things into perspective
+    </string>
+    <string name="happinessRecommendations">
+        1. Get a hug \n2. Go for a run \n3. Listen to music \n4. Talk to a friend \n5. Remember what you are good at
+        \n6. Watch puppy videos \n7. Put things into perspective
+    </string>
+    <string name="productivityRecommendations">
+        1. Take breaks \n2. Exercise in the morning \n3. Wake up early \n4. Stay hydrated \n5. Eat healthy
+        \n6. Write out a daily to-do list \n7. Turn off your phone \n8. Avoid social media \n9. Plan out your week by hour
+    </string>
+    <string-array name="stat_names">
+        <item>Happiness</item>
+        <item>Stress</item>
+        <item>Productivity</item>
+    </string-array>
+    <string-array name="hours">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="minutes">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+    </string-array>
+    <string-array name="weight_loss_goals">
+        <item>Lose 2 pounds a week</item>
+        <item>Lose 1.5 pounds a week</item>
+        <item>Lose 1 pound a week</item>
+        <item>Lose 0.5 pounds a week</item>
+        <item>Maintain current weight</item>
+    </string-array>
+    <string-array name="genders">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <!-- Strings related to Happiness -->
+    <string name="set_min_happiness_threshold">Set Happiness Threshold</string>
+
+    <!-- Strings related to music -->
+    <string name="music_center">Music Center</string>
+    <string name="productivity_music">Productive Music</string>
+    <string name="happiness_music">Happy Music</string>
+    <string name="destress_music">De-Stress Music</string>
+    <string name="sleep_music">Sleep Music</string>
+    <string name="back_to_music_center">Back to Music Center</string>
+
+    <!-- Goal Features -->
+    <string name="days_num_goal">Number of Days for Goal</string>
+
+</resources>
