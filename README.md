@@ -6,8 +6,11 @@ This Android app can be used by anyone trying to better understand themselves an
 Members: 
 ----------------
 Aren Raisinghani
+
 Rounak Gokhale
+
 Kevin Sim
+
 Stephen Eyerly
 
 Acknowledgements:
